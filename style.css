@@ -134,6 +134,7 @@
 @media screen and (max-width: 320px) {
   .container.grey {
     width: fit-content;
+    background-color: #f2f2cd;
   }
 }
 
